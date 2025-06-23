@@ -12,10 +12,11 @@ Analyze trending YouTube videos in Canada to uncover insights on viewer behavior
 - **Excel** – initial data cleaning and preprocessing  
 
 ---
-## 📁 Project Structure
-- `/data`: Cleaned dataset
-- `/sql`: SQL queries used for analysis
-- `/dashboard`: Power BI file with interactive visuals
+## 🗂️ Project Structure
+
+- [📁 Data Folder](./data): Contains the cleaned CSV dataset used for analysis  
+- [📁 SQL Folder](./sql): Contains all the SQL queries used for data exploration  
+- [📁 Dashboard Folder](./dashboard): Power BI file showcasing interactive visuals  
 
 ## 📌 Key Insights
 - 🔝 Top 10 most viewed videos and highest performing channels  
